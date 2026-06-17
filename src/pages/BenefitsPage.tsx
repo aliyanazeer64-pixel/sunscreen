@@ -150,7 +150,7 @@ export function BenefitsPage() {
               className="relative"
             >
               <img
-                src="https://images.pexels.com/photos/3755651/pexels-photo-3755651.jpeg?auto=compress&cs=tinysrgb&w=600"
+                src="/assets/images/7.png"
                 alt="Sun protection"
                 className="rounded-2xl shadow-xl"
               />

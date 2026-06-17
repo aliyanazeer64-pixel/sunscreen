@@ -95,7 +95,7 @@ export function HomePage() {
             >
               <div className="relative z-10">
                 <img
-                  src="https://images.pexels.com/photos/3621101/pexels-photo-3621101.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="/assets/images/6.png"
                   alt="Premium Sunscreen"
                   className="w-full rounded-3xl shadow-2xl"
                 />
